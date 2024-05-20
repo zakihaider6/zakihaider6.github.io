@@ -16,5 +16,5 @@ My portfolio website is built using HTML, CSS, and JavaScript. You can check it 
 
 👤 **Zaki Haider**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/zaki-haider-15ba50230/)
-* GitHub: [@arasgungore](https://github.com/zakihaider6)
+* LinkedIn: [@zakihaider](https://www.linkedin.com/in/zaki-haider-15ba50230/)
+* GitHub: [@zakihaider](https://github.com/zakihaider6)
